@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/196-S9Z8lHkGPdjtnPf_ZVX7D-SebZmWk
 """
 
-!pip install dash dash-bootstrap-components plotly gunicorn
 
 # Paste this entire block into a Colab cell or save as app.py
 import pandas as pd
